@@ -42,7 +42,7 @@ public class BoardPanel extends JPanel {
         /**
          * The number of visible rows on the board.
          */
-        private static final int VISIBLE_ROW_COUNT = 20;
+        static final int VISIBLE_ROW_COUNT = 20;
         
         /**
          * The number of rows that are hidden from view.
