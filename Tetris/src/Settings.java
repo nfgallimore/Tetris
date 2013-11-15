@@ -8,7 +8,7 @@
  *
  * @author nickgallimore
  */
-public class Key
+public interface Settings
 {
-    Key()
+    
 }

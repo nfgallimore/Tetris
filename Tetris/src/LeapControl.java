@@ -14,14 +14,11 @@ import com.leapmotion.leap.Gesture;
 import com.leapmotion.leap.Frame;
 import com.leapmotion.leap.CircleGesture;
 import com.leapmotion.leap.Hand;
-import com.leapmotion.leap.Finger;
 import com.leapmotion.leap.FingerList;
 import static com.leapmotion.leap.Gesture.Type.TYPE_CIRCLE;
 import static com.leapmotion.leap.Gesture.Type.TYPE_SWIPE;
-import com.leapmotion.leap.Vector;
 import com.leapmotion.leap.GestureList;
 import com.leapmotion.leap.SwipeGesture;
-import java.awt.AWTException;
 
 import java.io.IOException;
 import java.util.logging.Level;
